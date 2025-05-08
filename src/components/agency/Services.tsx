@@ -15,7 +15,7 @@ export const Services = () => {
       title: "Web Development",
       description: "We create custom, responsive websites that engage your audience and drive conversions. Our development team uses cutting-edge technologies to deliver fast, secure, and scalable web solutions.",
       icon: <Code size={28} className="text-white" />,
-      image: "public/lovable-uploads/02f83fbe-137d-4fff-9618-e14fb9e7735b.png",
+      image: "public/lovable-uploads/custom website development.png",
       features: [
         "Custom website development with responsive design",
         "Frontend technologies: React, Vue.js, Angular",
@@ -30,7 +30,7 @@ export const Services = () => {
       title: "UI/UX Design",
       description: "We create stunning user interfaces paired with intuitive user experiences that delight your customers and keep them coming back. Our design process focuses on usability, accessibility, and visual appeal.",
       icon: <Palette size={28} className="text-white" />,
-      image: "public/lovable-uploads/305dda26-facb-4c08-9a37-c3db1a73cd85.png",
+      image: "public/lovable-uploads/ui ux.png",
       features: [
         "Custom interface design with brand consistency",
         "User journey mapping and experience optimization",
@@ -45,7 +45,7 @@ export const Services = () => {
       title: "E-Commerce Solutions",
       description: "Build and grow your online store with our comprehensive e-commerce solutions. From product catalogs to secure payment gateways, we help businesses sell online effectively and increase revenue.",
       icon: <Globe size={28} className="text-white" />,
-      image: "public/lovable-uploads/4bb8d6f3-23cc-43d6-ae15-c91c6fea13d9.png",
+      image: "public/lovable-uploads/e commerce.png",
       features: [
         "Custom e-commerce website development",
         "Shopping cart and checkout optimization",
@@ -60,7 +60,7 @@ export const Services = () => {
       title: "Digital Marketing",
       description: "Drive traffic, generate leads, and increase conversions with our data-driven digital marketing strategies. We help businesses reach their target audience and achieve measurable results.",
       icon: <BarChart size={28} className="text-white" />,
-      image: "public/lovable-uploads/0b6246d2-c6c4-4fa4-99b8-136603a71ebd.png",
+      image: "public/lovable-uploads/digital agency.png",
       features: [
         "Search engine optimization (SEO)",
         "Pay-per-click (PPC) advertising campaigns",
@@ -75,7 +75,7 @@ export const Services = () => {
       title: "App Development",
       description: "Transform your ideas into powerful mobile applications that users love. Our app development team creates native and cross-platform solutions for iOS and Android with a focus on performance and user experience.",
       icon: <ShieldCheck size={28} className="text-white" />,
-      image: "public/lovable-uploads/ab83359c-e390-4fee-a7d4-7aac8ee50d4a.png",
+      image: "public/lovable-uploads/app development.png",
       features: [
         "Native iOS and Android app development",
         "Cross-platform solutions with React Native and Flutter",
@@ -90,7 +90,7 @@ export const Services = () => {
       title: "SEO Optimization",
       description: "Improve your website's visibility in search engine results with our comprehensive SEO services. We help businesses rank higher, attract more organic traffic, and stay ahead of algorithm updates.",
       icon: <Search size={28} className="text-white" />,
-      image: "public/lovable-uploads/18b1a8e2-54e1-408a-99e5-6db05eed0ab2.png",
+      image: "public/lovable-uploads/seo optimization.jpg",
       features: [
         "Technical SEO audits and implementation",
         "Keyword research and strategy development",

@@ -56,7 +56,7 @@ export const ProjectModal: React.FC<ProjectModalProps> = ({
             <div className="relative">
               <div className="aspect-video w-full rounded-t-xl overflow-hidden">
                 <img 
-                  src={project.image} 
+                  src={`/${project.image.substring('public/'.length)}`}
                   alt={project.title} 
                   className="w-full h-full object-cover"
                   loading="lazy"
