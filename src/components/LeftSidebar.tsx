@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Layers, Move, Type, Square, Circle, Pen, Image, Comments } from 'lucide-react';
+import { Layers, Move, Type, Square, Circle, Pen, Image, MessageSquare } from 'lucide-react';
 
 const LeftSidebar = () => {
   const tools = [
@@ -10,7 +10,7 @@ const LeftSidebar = () => {
     { icon: <Circle size={20} />, name: 'Ellipse' },
     { icon: <Pen size={20} />, name: 'Pen' },
     { icon: <Image size={20} />, name: 'Image' },
-    { icon: <Comments size={20} />, name: 'Comments' },
+    { icon: <MessageSquare size={20} />, name: 'Comments' },
   ];
 
   return (
